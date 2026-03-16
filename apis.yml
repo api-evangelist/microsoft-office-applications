@@ -1,3 +1,4 @@
+aid: microsoft-office-applications
 name: Microsoft Office Applications
 description: APIs for Microsoft Office suite including Word, Excel, PowerPoint, Outlook, and other Office applications
 image: https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/04/Microsoft-365-logo.png
@@ -8,9 +9,9 @@ tags:
 - Spreadsheets
 - Presentations
 created: '2024'
-modified: '2024'
+modified: '2026-03-16'
 url: https://www.microsoft.com/en-us/microsoft-365
-specificationVersion: '0.18'
+specificationVersion: '0.19'
 apis:
 - name: Microsoft Graph API
   description: Unified API endpoint for accessing Microsoft 365 services including Office applications
@@ -149,6 +150,5 @@ common:
 - type: Privacy Policy
   url: https://privacy.microsoft.com/en-us/privacystatement
 maintainers:
-- name: Microsoft
-  email: m365devrel@microsoft.com
-  url: https://developer.microsoft.com/en-us/microsoft-365
+- FN: Kin Lane
+  email: kin@apievangelist.com
