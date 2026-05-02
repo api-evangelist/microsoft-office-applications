@@ -1,24 +1,25 @@
 # Microsoft Office Applications (microsoft-office-applications)
-APIs for Microsoft Office suite including Word, Excel, PowerPoint, Outlook, and other Office applications
+APIs for Microsoft Office suite including Word, Excel, PowerPoint, Outlook, and other Office applications.
 
 **URL:** [Visit APIs.json URL](https://www.microsoft.com/en-us/microsoft-365)
 
 ## Tags:
 
- - Office, Productivity, Documents, Spreadsheets, Presentations
+ - Documents, Office, Presentations, Productivity, Spreadsheets
 
 ## Timestamps
 
-- **Created:** 2024 
-- **Modified:** 2024 
+- **Created:** 2024
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Microsoft Graph API
-Unified API endpoint for accessing Microsoft 365 services including Office applications
+Unified API endpoint for accessing Microsoft 365 services including Office applications.
 
 **Human URL:** [https://developer.microsoft.com/en-us/graph](https://developer.microsoft.com/en-us/graph)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
@@ -32,14 +33,15 @@ Unified API endpoint for accessing Microsoft 365 services including Office appli
 - [SDKs](https://docs.microsoft.com/en-us/graph/sdks/sdks-overview)
 
 ### Word API
-API for creating, editing, and managing Word documents
+API for creating, editing, and managing Word documents.
 
 **Human URL:** [https://docs.microsoft.com/en-us/javascript/api/word](https://docs.microsoft.com/en-us/javascript/api/word)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
- - Word, Documents, Word Processing
+ - Documents, Word, Word Processing
 
 #### Properties
 
@@ -48,14 +50,15 @@ API for creating, editing, and managing Word documents
 - [Getting Started](https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart)
 
 ### Excel API
-API for creating, editing, and managing Excel spreadsheets
+API for creating, editing, and managing Excel spreadsheets.
 
 **Human URL:** [https://docs.microsoft.com/en-us/javascript/api/excel](https://docs.microsoft.com/en-us/javascript/api/excel)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
- - Excel, Spreadsheets, Data Analysis
+ - Data Analysis, Excel, Spreadsheets
 
 #### Properties
 
@@ -64,10 +67,11 @@ API for creating, editing, and managing Excel spreadsheets
 - [Getting Started](https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-jquery)
 
 ### PowerPoint API
-API for creating, editing, and managing PowerPoint presentations
+API for creating, editing, and managing PowerPoint presentations.
 
 **Human URL:** [https://docs.microsoft.com/en-us/javascript/api/powerpoint](https://docs.microsoft.com/en-us/javascript/api/powerpoint)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
@@ -80,14 +84,15 @@ API for creating, editing, and managing PowerPoint presentations
 - [Getting Started](https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/powerpoint-quickstart)
 
 ### Outlook Mail API
-API for accessing and managing email in Outlook
+API for accessing and managing email in Outlook.
 
 **Human URL:** [https://docs.microsoft.com/en-us/graph/api/resources/mail-api-overview](https://docs.microsoft.com/en-us/graph/api/resources/mail-api-overview)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
- - Outlook, Email, Mail
+ - Email, Mail, Outlook
 
 #### Properties
 
@@ -96,14 +101,15 @@ API for accessing and managing email in Outlook
 - [Getting Started](https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/outlook-quickstart)
 
 ### OneNote API
-API for creating and managing OneNote notebooks, sections, and pages
+API for creating and managing OneNote notebooks, sections, and pages.
 
 **Human URL:** [https://docs.microsoft.com/en-us/graph/api/resources/onenote-api-overview](https://docs.microsoft.com/en-us/graph/api/resources/onenote-api-overview)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
- - OneNote, Notes, Notebooks
+ - Notebooks, Notes, OneNote
 
 #### Properties
 
@@ -112,14 +118,15 @@ API for creating and managing OneNote notebooks, sections, and pages
 - [Getting Started](https://docs.microsoft.com/en-us/graph/onenote-get-started)
 
 ### OneDrive API
-API for accessing and managing files in OneDrive
+API for accessing and managing files in OneDrive.
 
 **Human URL:** [https://docs.microsoft.com/en-us/graph/api/resources/onedrive](https://docs.microsoft.com/en-us/graph/api/resources/onedrive)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
- - OneDrive, Storage, Files
+ - Files, OneDrive, Storage
 
 #### Properties
 
@@ -128,14 +135,15 @@ API for accessing and managing files in OneDrive
 - [Getting Started](https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/)
 
 ### Teams API
-API for Microsoft Teams collaboration and communication
+API for Microsoft Teams collaboration and communication.
 
 **Human URL:** [https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview](https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview)
 
+**Base URL:** https://graph.microsoft.com/v1.0
 
 #### Tags:
 
- - Teams, Collaboration, Chat
+ - Chat, Collaboration, Teams
 
 #### Properties
 
@@ -154,6 +162,6 @@ API for Microsoft Teams collaboration and communication
 
 ## Maintainers
 
-**FN:** Microsoft
+**FN:** Kin Lane
 
-**Email:** m365devrel@microsoft.com
+**Email:** kin@apievangelist.com
