@@ -48,7 +48,7 @@ apis:
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/word/
       - type: Reference
         url: https://docs.microsoft.com/en-us/javascript/api/word
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart
   - name: Excel API
     description: >-
@@ -64,7 +64,7 @@ apis:
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/excel/
       - type: Reference
         url: https://docs.microsoft.com/en-us/javascript/api/excel
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-jquery
   - name: PowerPoint API
     description: >-
@@ -80,7 +80,7 @@ apis:
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/powerpoint/
       - type: Reference
         url: https://docs.microsoft.com/en-us/javascript/api/powerpoint
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/powerpoint-quickstart
   - name: Outlook Mail API
     description: >-
@@ -96,7 +96,7 @@ apis:
         url: https://docs.microsoft.com/en-us/graph/api/resources/mail-api-overview
       - type: Reference
         url: https://docs.microsoft.com/en-us/graph/api/resources/message
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/outlook-quickstart
   - name: OneNote API
     description: >-
@@ -112,7 +112,7 @@ apis:
         url: https://docs.microsoft.com/en-us/graph/api/resources/onenote-api-overview
       - type: Reference
         url: https://docs.microsoft.com/en-us/graph/api/resources/onenote
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/graph/onenote-get-started
   - name: OneDrive API
     description: >-
@@ -128,7 +128,7 @@ apis:
         url: https://docs.microsoft.com/en-us/onedrive/developer/
       - type: Reference
         url: https://docs.microsoft.com/en-us/graph/api/resources/onedrive
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/
   - name: Teams API
     description: >-
@@ -144,7 +144,7 @@ apis:
         url: https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview
       - type: Reference
         url: https://docs.microsoft.com/en-us/graph/api/resources/team
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/en-us/microsoftteams/platform/
 common:
   - type: Portal
@@ -155,9 +155,9 @@ common:
     url: https://developer.microsoft.com/en-us/microsoft-365/blogs/
   - type: Support
     url: https://docs.microsoft.com/en-us/answers/products/m365
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://docs.microsoft.com/en-us/legal/microsoft-apis/terms-of-use
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://privacy.microsoft.com/en-us/privacystatement
   - type: Integrations
     url: https://www.microsoft.com/en-us/marketplace
