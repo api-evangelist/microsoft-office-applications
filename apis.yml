@@ -147,6 +147,8 @@ apis:
       - type: GettingStarted
         url: https://docs.microsoft.com/en-us/microsoftteams/platform/
 common:
+  - type: OAuthScopes
+    url: scopes/microsoft-office-applications-scopes.yml
   - type: GitHubOrganization
     url: https://github.com/OfficeDev
   - type: Portal
