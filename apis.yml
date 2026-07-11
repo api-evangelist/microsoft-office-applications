@@ -147,6 +147,12 @@ apis:
       - type: GettingStarted
         url: https://docs.microsoft.com/en-us/microsoftteams/platform/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/microsoft-office-applications-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/microsoft-office-applications-domain-security.yml
+  - type: Authentication
+    url: authentication/microsoft-office-applications-authentication.yml
   - type: OAuthScopes
     url: scopes/microsoft-office-applications-scopes.yml
   - type: GitHubOrganization
