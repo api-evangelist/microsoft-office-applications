@@ -147,6 +147,8 @@ apis:
       - type: GettingStarted
         url: https://docs.microsoft.com/en-us/microsoftteams/platform/
 common:
+  - type: AgenticAccess
+    url: agentic-access/microsoft-office-applications-agentic-access.yml
   - type: VulnerabilityDisclosure
     url: security/microsoft-office-applications-vulnerability-disclosure.yml
   - type: DomainSecurity
